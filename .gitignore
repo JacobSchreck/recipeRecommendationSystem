@@ -221,3 +221,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+RAW_interactions.csv
+RAW_recipes.csv
